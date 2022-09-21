@@ -1,0 +1,5 @@
+# ignorar entorno virtual del proyecto django
+/restaurant-env
+
+# ignorar cache de python
+**/__pycache__
